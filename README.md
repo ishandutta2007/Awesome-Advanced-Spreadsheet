@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Advanced-Spreadsheet/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-Spreadsheet?color=gold&style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Advanced-Spreadsheet/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-Spreadsheet?color=gold&style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-Spreadsheet/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Advanced-Spreadsheet?color=orange&style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-Spreadsheet/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-Spreadsheet/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -75,143 +75,143 @@ The following table evaluates the leading commercial SaaS advanced spreadsheet p
 ## 🔓 Open-Source GitHub Projects
 
 Curated collection of self-hosted, open-source spreadsheet engines, relational database alternatives, and headless calculation runtimes.  
-**Ranked in descending order by GitHub Stars ⭐.**
+**Ranked in descending order by GitHub_Stars ⭐.**
 
 ---
 
-### 1. 🏆 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+### 1. 🏆 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
 - **License**: AGPL-3.0 | **Primary Tech**: Flutter, Rust, SQLite
 - **Description**: Open-source collaborative workspace and Notion/Airtable alternative. Features high-performance grid tables, relational views, Kanban boards, offline-first sync, and local AI agent integration without vendor data lock-in.
 
 ---
 
-### 2. 🏆 [NocoDB](https://github.com/nocodb/nocodb) [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+### 2. 🏆 [NocoDB](https://github.com/nocodb/nocodb) [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 - **License**: AGPL-3.0 | **Primary Tech**: Node.js, Vue.js, PostgreSQL / MySQL / SQLite
 - **Description**: Open-source Airtable alternative that transforms any existing relational database into a smart spreadsheet. Provides Grid, Gallery, Kanban, and Form views, role-based access control, and auto-generated REST/GraphQL APIs capable of handling millions of rows.
 
 ---
 
-### 3. 🏆 [SheetJS](https://github.com/SheetJS/sheetjs) [![GitHub stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social&color=white)](https://github.com/SheetJS/sheetjs/stargazers)
+### 3. 🏆 [SheetJS](https://github.com/SheetJS/sheetjs) [![GitHub_Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social&color=white)](https://github.com/SheetJS/sheetjs/stargazers)
 - **License**: Apache-2.0 | **Primary Tech**: JavaScript / TypeScript
 - **Description**: The industry-standard spreadsheet data toolkit. Powers parsing, manipulation, and generation of Excel (XLSX, XLS), ODS, CSV, and dozens of tabular formats across browsers, Node.js, and edge runtimes.
 
 ---
 
-### 4. 🏆 [Univer](https://github.com/dream-num/univer) [![GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=social&color=white)](https://github.com/dream-num/univer/stargazers)
+### 4. 🏆 [Univer](https://github.com/dream-num/univer) [![GitHub_Stars](https://img.shields.io/github/stars/dream-num/univer?style=social&color=white)](https://github.com/dream-num/univer/stargazers)
 - **License**: Apache-2.0 | **Primary Tech**: TypeScript, Canvas, WebGL
 - **Description**: Next-generation full-stack enterprise office harness and canvas engine for Spreadsheets, Docs, and Slides. Designed for AI agents and collaborative enterprise web apps, featuring high-performance canvas rendering and rich formula support.
 
 ---
 
-### 5. 🏆 [Handsontable](https://github.com/handsontable/handsontable) [![GitHub stars](https://img.shields.io/github/stars/handsontable/handsontable?style=social&color=white)](https://github.com/handsontable/handsontable/stargazers)
+### 5. 🏆 [Handsontable](https://github.com/handsontable/handsontable) [![GitHub_Stars](https://img.shields.io/github/stars/handsontable/handsontable?style=social&color=white)](https://github.com/handsontable/handsontable/stargazers)
 - **License**: Commercial / Free Evaluation | **Primary Tech**: JavaScript, TypeScript, React, Angular, Vue
 - **Description**: Enterprise JavaScript data grid with a spreadsheet look and feel. Offers Excel-grade data editing, formula calculations, cell validation, sorting, filtering, and seamless integration with major modern frontend frameworks.
 
 ---
 
-### 6. 🏆 [Teable](https://github.com/teableio/teable) [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)
+### 6. 🏆 [Teable](https://github.com/teableio/teable) [![GitHub_Stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)
 - **License**: AGPL-3.0 | **Primary Tech**: TypeScript, Next.js, PostgreSQL
 - **Description**: Super-fast, real-time AI-native spreadsheet built directly on native PostgreSQL. Acts as a zero-lag Airtable alternative supporting massive datasets (millions of records), SQL queries, real-time collaboration, and automatic schema reflection.
 
 ---
 
-### 7. 🏆 [Luckysheet](https://github.com/dream-num/Luckysheet) [![GitHub stars](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social&color=white)](https://github.com/dream-num/Luckysheet/stargazers)
+### 7. 🏆 [Luckysheet](https://github.com/dream-num/Luckysheet) [![GitHub_Stars](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social&color=white)](https://github.com/dream-num/Luckysheet/stargazers)
 - **License**: MIT | **Primary Tech**: JavaScript, Canvas
 - **Description**: Feature-rich online JavaScript spreadsheet library with comprehensive Excel-compatible formatting, pivot tables, chart rendering, matrix calculations, and real-time collaboration features (upgraded lineage lives in Univer).
 
 ---
 
-### 8. 🏆 [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [![GitHub stars](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social&color=white)](https://github.com/myliang/x-spreadsheet/stargazers)
+### 8. 🏆 [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [![GitHub_Stars](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social&color=white)](https://github.com/myliang/x-spreadsheet/stargazers)
 - **License**: MIT | **Primary Tech**: JavaScript, HTML5 Canvas
 - **Description**: Ultra-lightweight, zero-dependency canvas-based web spreadsheet library. Designed for developers seeking an embeddable, fast-loading, customizable spreadsheet UI in web applications.
 
 ---
 
-### 9. 🏆 [Grist](https://github.com/gristlabs/grist-core) [![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)
+### 9. 🏆 [Grist](https://github.com/gristlabs/grist-core) [![GitHub_Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)
 - **License**: Apache-2.0 | **Primary Tech**: Python, JavaScript, SQLite
 - **Description**: Modern relational spreadsheet combining the ease of spreadsheets with genuine relational database integrity. Supports standard Python expressions in formulas, granular column- and row-level access control (RBAC), and portable SQLite storage.
 
 ---
 
-### 10. 🏆 [Baserow](https://github.com/baserow/baserow) [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
+### 10. 🏆 [Baserow](https://github.com/baserow/baserow) [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
 - **License**: MIT | **Primary Tech**: Python, Django, Nuxt.js, PostgreSQL
 - **Description**: Open-source modular no-code database and Airtable alternative. Offers infinite scalability, AI assistant integrations (Kuma), real-time collaboration, webhooks, REST APIs, and enterprise compliance (GDPR, HIPAA, SOC 2 Type II).
 
 ---
 
-### 11. 🏆 [Mathesar](https://github.com/mathesar-foundation/mathesar) [![GitHub stars](https://img.shields.io/github/stars/mathesar-foundation/mathesar?style=social&color=white)](https://github.com/mathesar-foundation/mathesar/stargazers)
+### 11. 🏆 [Mathesar](https://github.com/mathesar-foundation/mathesar) [![GitHub_Stars](https://img.shields.io/github/stars/mathesar-foundation/mathesar?style=social&color=white)](https://github.com/mathesar-foundation/mathesar/stargazers)
 - **License**: GPL-3.0 | **Primary Tech**: Python, Svelte, PostgreSQL
 - **Description**: Intuitive spreadsheet-like interface built natively on PostgreSQL. Enables technical and non-technical teams to view, edit, query, and collaborate on PostgreSQL schemas without abstractions, preserving native data types and constraints.
 
 ---
 
-### 12. 🏆 [LibreOffice Calc](https://github.com/LibreOffice/core) [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)
+### 12. 🏆 [LibreOffice Calc](https://github.com/LibreOffice/core) [![GitHub_Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)
 - **License**: MPL-2.0 | **Primary Tech**: C++, LibreOffice Ecosystem
 - **Description**: The benchmark open-source desktop spreadsheet for Linux, Windows, and macOS. Offers comprehensive XLSX/ODS compatibility, comprehensive formula engines, pivot tables, data piloting, and extensive macro support.
 
 ---
 
-### 13. 🏆 [IronCalc](https://github.com/ironcalc/IronCalc) [![GitHub stars](https://img.shields.io/github/stars/ironcalc/IronCalc?style=social&color=white)](https://github.com/ironcalc/IronCalc/stargazers)
+### 13. 🏆 [IronCalc](https://github.com/ironcalc/IronCalc) [![GitHub_Stars](https://img.shields.io/github/stars/ironcalc/IronCalc?style=social&color=white)](https://github.com/ironcalc/IronCalc/stargazers)
 - **License**: Apache-2.0 / MIT | **Primary Tech**: Rust, WebAssembly, Python, JavaScript
 - **Description**: High-performance, memory-safe modern spreadsheet calculation engine written entirely in Rust. Features WASM compilation for browser execution, headless server calculations, and Python bindings.
 
 ---
 
-### 14. 🏆 [FortuneSheet](https://github.com/ruilisi/fortune-sheet) [![GitHub stars](https://img.shields.io/github/stars/ruilisi/fortune-sheet?style=social&color=white)](https://github.com/ruilisi/fortune-sheet/stargazers)
+### 14. 🏆 [FortuneSheet](https://github.com/ruilisi/fortune-sheet) [![GitHub_Stars](https://img.shields.io/github/stars/ruilisi/fortune-sheet?style=social&color=white)](https://github.com/ruilisi/fortune-sheet/stargazers)
 - **License**: MIT | **Primary Tech**: TypeScript, React
 - **Description**: Drop-in JavaScript/React spreadsheet component designed to provide out-of-the-box Excel and Google Sheets feature parity with clean component lifecycle integration.
 
 ---
 
-### 15. 🏆 [Collabora Online Calc](https://github.com/CollaboraOnline/online) [![GitHub stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers)
+### 15. 🏆 [Collabora Online Calc](https://github.com/CollaboraOnline/online) [![GitHub_Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers)
 - **License**: MPL-2.0 | **Primary Tech**: C++, JavaScript
 - **Description**: Scalable, cloud-native office suite delivering collaborative web-based editing for LibreOffice Calc workbooks. Ideal for integration into ownCloud, Nextcloud, and custom enterprise cloud storage.
 
 ---
 
-### 16. 🏆 [Worklenz](https://github.com/Worklenz/worklenz) [![GitHub stars](https://img.shields.io/github/stars/Worklenz/worklenz?style=social&color=white)](https://github.com/Worklenz/worklenz/stargazers)
+### 16. 🏆 [Worklenz](https://github.com/Worklenz/worklenz) [![GitHub_Stars](https://img.shields.io/github/stars/Worklenz/worklenz?style=social&color=white)](https://github.com/Worklenz/worklenz/stargazers)
 - **License**: AGPL-3.0 | **Primary Tech**: Node.js, Angular, PostgreSQL
 - **Description**: Collaborative project and work management platform featuring a spreadsheet-style task tracker, extended Kanban boards, recurring tasks, and granular custom field configurations.
 
 ---
 
-### 17. 🏆 [ONLYOFFICE Community Server](https://github.com/ONLYOFFICE/CommunityServer) [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/CommunityServer?style=social&color=white)](https://github.com/ONLYOFFICE/CommunityServer/stargazers)
+### 17. 🏆 [ONLYOFFICE Community Server](https://github.com/ONLYOFFICE/CommunityServer) [![GitHub_Stars](https://img.shields.io/github/stars/ONLYOFFICE/CommunityServer?style=social&color=white)](https://github.com/ONLYOFFICE/CommunityServer/stargazers)
 - **License**: AGPL-3.0 | **Primary Tech**: C#, TypeScript, JavaScript
 - **Description**: Enterprise productivity platform featuring advanced online spreadsheet editors with high Microsoft Office (XLSX) format compatibility, real-time co-authoring, and plugin architecture.
 
 ---
 
-### 18. 🏆 [EtherCalc](https://github.com/audreyt/ethercalc) [![GitHub stars](https://img.shields.io/github/stars/audreyt/ethercalc?style=social&color=white)](https://github.com/audreyt/ethercalc/stargazers)
+### 18. 🏆 [EtherCalc](https://github.com/audreyt/ethercalc) [![GitHub_Stars](https://img.shields.io/github/stars/audreyt/ethercalc?style=social&color=white)](https://github.com/audreyt/ethercalc/stargazers)
 - **License**: CPAL-1.0 | **Primary Tech**: Node.js, Redis, SocialCalc
 - **Description**: Lightweight web spreadsheet for real-time collaborative multi-user editing. Built as a scalable Node.js port of SocialCalc with simple REST API integrations.
 
 ---
 
-### 19. 🏆 [HyperFormula](https://github.com/handsontable/hyperformula) [![GitHub stars](https://img.shields.io/github/stars/handsontable/hyperformula?style=social&color=white)](https://github.com/handsontable/hyperformula/stargazers)
+### 19. 🏆 [HyperFormula](https://github.com/handsontable/hyperformula) [![GitHub_Stars](https://img.shields.io/github/stars/handsontable/hyperformula?style=social&color=white)](https://github.com/handsontable/hyperformula/stargazers)
 - **License**: GPL-3.0 / Commercial | **Primary Tech**: TypeScript
 - **Description**: Fast, headless calculation engine built for business web applications. Includes over 400 formulas, calculation dependency trees, CRUD operations, undo-redo stacks, and sorting mechanisms.
 
 ---
 
-### 20. 🏆 [Apache OpenOffice Calc](https://github.com/apache/openoffice) [![GitHub stars](https://img.shields.io/github/stars/apache/openoffice?style=social&color=white)](https://github.com/apache/openoffice/stargazers)
+### 20. 🏆 [Apache OpenOffice Calc](https://github.com/apache/openoffice) [![GitHub_Stars](https://img.shields.io/github/stars/apache/openoffice?style=social&color=white)](https://github.com/apache/openoffice/stargazers)
 - **License**: Apache-2.0 | **Primary Tech**: C++, Java
 - **Description**: The historic open-source desktop spreadsheet started as StarOffice. Offers classic spreadsheet calculation, charting, and macro capabilities for standard desktop computing.
 
 ---
 
-### 21. 🏆 [JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) [![GitHub stars](https://img.shields.io/github/stars/EmbeddedLLM/JamAIBase?style=social&color=white)](https://github.com/EmbeddedLLM/JamAIBase/stargazers)
+### 21. 🏆 [JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) [![GitHub_Stars](https://img.shields.io/github/stars/EmbeddedLLM/JamAIBase?style=social&color=white)](https://github.com/EmbeddedLLM/JamAIBase/stargazers)
 - **License**: Apache-2.0 | **Primary Tech**: Python, TypeScript
 - **Description**: AI-native collaborative spreadsheet platform. Enables users to chain spreadsheet cells into generative AI pipelines, experiment with prompt models, and benchmark LLM responses in real-time.
 
 ---
 
-### 22. 🏆 [Gnumeric](https://github.com/GNOME/gnumeric) [![GitHub stars](https://img.shields.io/github/stars/GNOME/gnumeric?style=social&color=white)](https://github.com/GNOME/gnumeric/stargazers)
+### 22. 🏆 [Gnumeric](https://github.com/GNOME/gnumeric) [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gnumeric?style=social&color=white)](https://github.com/GNOME/gnumeric/stargazers)
 - **License**: GPL-2.0 | **Primary Tech**: C, GTK
 - **Description**: High-precision mathematical and statistical spreadsheet developed under the GNOME project, renowned for numerical accuracy, low resource footprint, and advanced analytical functions.
 
 ---
 
-### 23. 🏆 [SimpleSpread](https://github.com/baudehlo/SimpleSpread) [![GitHub stars](https://img.shields.io/github/stars/baudehlo/SimpleSpread?style=social&color=white)](https://github.com/baudehlo/SimpleSpread/stargazers)
+### 23. 🏆 [SimpleSpread](https://github.com/baudehlo/SimpleSpread) [![GitHub_Stars](https://img.shields.io/github/stars/baudehlo/SimpleSpread?style=social&color=white)](https://github.com/baudehlo/SimpleSpread/stargazers)
 - **License**: MIT | **Primary Tech**: Swift
 - **Description**: Native macOS spreadsheet application built entirely in Swift. Features native XLSX support, a 157-function formula engine, and swift launch benchmarks exceeding Apple Numbers.
 
@@ -264,7 +264,7 @@ Contributions from builders, researchers, and maintainers are enthusiastically w
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-spreadsheet-tool`).
 3. ✍️ **Add or edit entries** in `README.md` following the established structure:
    - For SaaS tools: include verified pricing tier, free tier/trial limits, company size/valuation, and key differentiators.
-   - For Open-Source tools: include official repo link, star badge (`style=social&color=white` linking to stargazers), license, tech stack, and concise description.
+   - For Open-Source tools: include official repo link, Stars_Badge (`style=social&color=white` linking to stargazers), license, tech stack, and concise description.
 4. 🚀 **Submit a Pull Request** with a brief summary explaining the addition.
 
 ---
@@ -304,3 +304,12 @@ If you find this curated directory helpful for your team, research, or personal 
 <p align="center">
   <sub>Maintained with ❤️ for the global data, developer, and operations community.</sub>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Advanced-Spreadsheet&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Advanced-Spreadsheet_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Advanced-Spreadsheet_growth.svg">
+  </picture>
+</a>
